@@ -1,0 +1,15 @@
+button{
+ text-decoration:none; 
+ text-align:center; 
+ padding:11px 49px; 
+ border:double 4px #ffffff; 
+ -webkit-border-radius:40px;
+ -moz-border-radius:40px; 
+ border-radius: 40px; 
+ font:21px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background:#ffb5d7; 
+ -webkit-box-shadow:0px 0px 2px #bababa;  -moz-box-shadow: 0px 0px 2px #bababa;  box-shadow:0px 0px 2px #bababa;  
+  
+  }
