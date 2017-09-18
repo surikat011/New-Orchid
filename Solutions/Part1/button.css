@@ -11,5 +11,5 @@ button{
  color:#000000; 
  background:#ffb5d7; 
  -webkit-box-shadow:0px 0px 2px #bababa;  -moz-box-shadow: 0px 0px 2px #bababa;  box-shadow:0px 0px 2px #bababa;  
-  
+  cursor: pointer;
   }
