@@ -1,0 +1,34 @@
+.battery {
+    height: 50px;
+	width: 150px;
+	border: solid black 3px;
+	margin-bottom: 10px;	
+	float: left;
+}
+
+.battery-container {
+	display: inline-block;
+}
+
+#one_third {
+	background: linear-gradient( to right, #ed1c24 33.33%, white 33.33%); 
+	
+}
+
+#two_thirds {
+	background: linear-gradient(to right, #ffc60b 66.66%, white 33.33%);
+}
+
+#full {
+	background-color: #00a055;
+}
+
+.pipka {
+	height: 15px;
+    width: 3px;
+    background-color: black;
+    border: 1px solid black;
+    float: right;
+    margin-top: 19px;
+	
+}
